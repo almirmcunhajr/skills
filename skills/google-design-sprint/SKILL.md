@@ -54,7 +54,7 @@ For each phase, avoid dumping a wall of text. Engage the user collaboratively an
 
 ## Important Principles
 - **Timeboxing**: Remind the user to timebox activities. Sprints rely on momentum.
-- **Tangible Output**: Push the user to write things down or sketch, rather than just discussing.
+- **Tangible Output & File Naming**: Push the user to write things down or sketch. When creating files or documents as deliverables for sprint methods, you MUST use the following directory and file naming convention: `docs/sprint-<number>/phase-<number>-<name>/<method-deriverable-name>.md` (e.g., `docs/sprint-1/phase-1-understand/user-journey-map.md` or `docs/sprint-1/phase-2-define/business-model-canvas.md`).
 - **Decisiveness & The Decider**: In the Decide phase, ensure a clear decision is made so the Prototype phase isn't bogged down in debate. The "Decider" (stakeholder with decision-making power) plays a crucial role here.
 - **Just Enough Prototyping**: Build only what is needed to get an authentic response from users. Do not over-engineer. The goal is to learn, not launch.
 - **Next Steps**: Remind the user that a sprint is the beginning of a solution. Post-sprint activities involve iterating on the prototype based on user feedback or moving into a production cycle.
