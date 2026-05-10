@@ -36,7 +36,7 @@ For each phase, avoid dumping a wall of text. Engage the user collaboratively an
   *   **Phase 2: Define**: `references/methods/2-define/`
   *   **Phase 3: Sketch**: `references/methods/3-sketch/`
   *   **Phase 4: Decide**: `references/methods/4-decide/`
-  *   *Phase 5: Prototype**: `references/methods/5-prototype/`
+  *   **Phase 5: Prototype**: `references/methods/5-prototype/`
   *   **Phase 6: Validate**: `references/methods/6-validate/`
   
   This ensures you have the full context of available options, their requirements, and source status before making a recommendation. Check the `* **Source:**` metadata in each file; **always prioritize "Core Method" techniques** as they are foundational to the methodology, unless the user's specific constraints or goals demand a specialized alternative. Ask for the user's approval on the itinerary before starting.
